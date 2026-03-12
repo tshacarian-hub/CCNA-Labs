@@ -13,6 +13,7 @@ PC0 → Switch → PC1
 
 ## Commands Used
 show mac address-table
+
 clear mac address-table dynamic
 
 ## Result
