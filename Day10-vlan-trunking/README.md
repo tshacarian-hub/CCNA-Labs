@@ -11,6 +11,7 @@ Extend VLANs across multiple switches using trunking.
 
 ## Commands Used
 switchport mode trunk
+
 show interfaces trunk
 
 ## Result
