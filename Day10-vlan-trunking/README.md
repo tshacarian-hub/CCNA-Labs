@@ -3,6 +3,8 @@
 ## Objective
 Extend VLANs across multiple switches using trunking.
 
+## Topology
+<img width="837" height="392" alt="Topology (2 switches)" src="https://github.com/user-attachments/assets/4deee856-6ced-41fc-89bc-9560fd79e699" />
 ## Steps
 1. Created VLANs on both switches
 <img width="707" height="733" alt="VLAN config" src="https://github.com/user-attachments/assets/c46603cd-b59d-4197-ac20-92c94eba8ca4" />
